@@ -1,0 +1,390 @@
+[17_17_33_11]: New Session Created
+[17_17_33_11]: User ID: USER_ID_NOT_FOUND
+[17_17_33_11]: Version: 1
+[17_17_35_33]: TAKE PICTURE BEGIN
+[17_17_37_15]: Image added 1549750655343_capture.jpg
+[17_17_37_16]: TAKE PICTURE END
+[17_17_37_98]: TAKE PICTURE BEGIN
+[17_17_38_85]: Image added 1549750657985_capture.jpg
+[17_17_38_85]: TAKE PICTURE END
+[17_17_39_64]: TAKE PICTURE BEGIN
+[17_17_40_63]: Image added 1549750659653_capture.jpg
+[17_17_40_63]: TAKE PICTURE END
+[17_17_41_52]: TAKE PICTURE BEGIN
+[17_17_42_82]: Image added 1549750661526_capture.jpg
+[17_17_42_84]: TAKE PICTURE END
+[17_17_43_43]: TAKE PICTURE BEGIN
+[17_17_44_36]: Image added 1549750663437_capture.jpg
+[17_17_44_37]: TAKE PICTURE END
+[17_17_44_45]: User stopped scrolling through images
+[17_17_45_13]: TAKE PICTURE BEGIN
+[17_17_46_29]: Image added 1549750665139_capture.jpg
+[17_17_46_31]: TAKE PICTURE END
+[17_17_46_40]: User stopped scrolling through images
+[17_17_46_87]: TAKE PICTURE BEGIN
+[17_17_48_22]: Image added 1549750666882_capture.jpg
+[17_17_48_24]: TAKE PICTURE END
+[17_17_48_31]: User stopped scrolling through images
+[17_17_48_81]: TAKE PICTURE BEGIN
+[17_17_50_20]: Image added 1549750668821_capture.jpg
+[17_17_50_22]: TAKE PICTURE END
+[17_17_50_28]: User stopped scrolling through images
+[17_17_50_92]: TAKE PICTURE BEGIN
+[17_17_52_26]: Image added 1549750670933_capture.jpg
+[17_17_52_28]: TAKE PICTURE END
+[17_17_52_34]: User stopped scrolling through images
+[17_17_52_95]: TAKE PICTURE BEGIN
+[17_17_54_17]: Image added 1549750672958_capture.jpg
+[17_17_54_20]: TAKE PICTURE END
+[17_17_54_26]: User stopped scrolling through images
+[17_17_54_97]: TAKE PICTURE BEGIN
+[17_17_57_07]: TAKE PICTURE BEGIN
+[17_17_57_91]: Image added 1549750674978_capture.jpg
+[17_17_57_92]: TAKE PICTURE END
+[17_17_58_01]: User stopped scrolling through images
+[17_17_58_65]: TAKE PICTURE BEGIN
+[17_17_59_56]: Image added 1549750678662_capture.jpg
+[17_17_59_57]: TAKE PICTURE END
+[17_17_59_63]: User stopped scrolling through images
+[17_18_00_31]: TAKE PICTURE BEGIN
+[17_18_01_62]: Image added 1549750680325_capture.jpg
+[17_18_01_62]: TAKE PICTURE END
+[17_18_01_69]: User stopped scrolling through images
+[17_18_02_53]: TAKE PICTURE BEGIN
+[17_18_04_12]: Image added 1549750682538_capture.jpg
+[17_18_04_13]: TAKE PICTURE END
+[17_18_04_19]: User stopped scrolling through images
+[17_18_04_86]: TAKE PICTURE BEGIN
+[17_18_05_93]: TAKE PICTURE BEGIN
+[17_18_06_39]: Image added 1549750684868_capture.jpg
+[17_18_06_40]: TAKE PICTURE END
+[17_18_06_46]: User stopped scrolling through images
+[17_18_07_49]: TAKE PICTURE BEGIN
+[17_18_09_59]: Image added 1549750687501_capture.jpg
+[17_18_09_60]: TAKE PICTURE END
+[17_18_09_65]: User stopped scrolling through images
+[17_18_10_35]: TAKE PICTURE BEGIN
+[17_18_11_44]: Image added 1549750690365_capture.jpg
+[17_18_11_45]: TAKE PICTURE END
+[17_18_11_51]: User stopped scrolling through images
+[17_18_12_39]: TAKE PICTURE BEGIN
+[17_18_13_68]: Image added 1549750692398_capture.jpg
+[17_18_13_69]: TAKE PICTURE END
+[17_18_13_75]: User stopped scrolling through images
+[17_18_14_39]: TAKE PICTURE BEGIN
+[17_18_15_78]: Image added 1549750694395_capture.jpg
+[17_18_15_78]: TAKE PICTURE END
+[17_18_15_85]: User stopped scrolling through images
+[17_18_16_52]: TAKE PICTURE BEGIN
+[17_18_17_44]: Image added 1549750696531_capture.jpg
+[17_18_17_45]: TAKE PICTURE END
+[17_18_17_51]: User stopped scrolling through images
+[17_18_18_51]: TAKE PICTURE BEGIN
+[17_18_19_43]: Image added 1549750698519_capture.jpg
+[17_18_19_44]: TAKE PICTURE END
+[17_18_19_51]: User stopped scrolling through images
+[17_18_20_39]: TAKE PICTURE BEGIN
+[17_18_21_72]: Image added 1549750700399_capture.jpg
+[17_18_21_73]: TAKE PICTURE END
+[17_18_21_79]: User stopped scrolling through images
+[17_18_22_50]: TAKE PICTURE BEGIN
+[17_18_23_66]: Image added 1549750702509_capture.jpg
+[17_18_23_67]: TAKE PICTURE END
+[17_18_23_74]: User stopped scrolling through images
+[17_18_24_60]: TAKE PICTURE BEGIN
+[17_18_26_38]: Image added 1549750704610_capture.jpg
+[17_18_26_39]: TAKE PICTURE END
+[17_18_26_46]: User stopped scrolling through images
+[17_18_26_99]: TAKE PICTURE BEGIN
+[17_18_27_88]: Image added 1549750707003_capture.jpg
+[17_18_27_90]: TAKE PICTURE END
+[17_18_27_97]: User stopped scrolling through images
+[17_18_28_84]: TAKE PICTURE BEGIN
+[17_18_30_31]: Image added 1549750708851_capture.jpg
+[17_18_30_32]: TAKE PICTURE END
+[17_18_30_38]: User stopped scrolling through images
+[17_18_31_12]: TAKE PICTURE BEGIN
+[17_18_32_45]: Image added 1549750711126_capture.jpg
+[17_18_32_47]: TAKE PICTURE END
+[17_18_32_53]: User stopped scrolling through images
+[17_18_33_07]: TAKE PICTURE BEGIN
+[17_18_34_11]: Image added 1549750713079_capture.jpg
+[17_18_34_12]: TAKE PICTURE END
+[17_18_34_19]: User stopped scrolling through images
+[17_18_35_00]: TAKE PICTURE BEGIN
+[17_18_36_33]: Image added 1549750715004_capture.jpg
+[17_18_36_34]: TAKE PICTURE END
+[17_18_36_40]: User stopped scrolling through images
+[17_18_36_88]: TAKE PICTURE BEGIN
+[17_18_37_90]: Image added 1549750716891_capture.jpg
+[17_18_37_91]: TAKE PICTURE END
+[17_18_37_98]: User stopped scrolling through images
+[17_18_38_63]: TAKE PICTURE BEGIN
+[17_18_39_64]: Image added 1549750718639_capture.jpg
+[17_18_39_65]: TAKE PICTURE END
+[17_18_39_71]: User stopped scrolling through images
+[17_18_40_39]: TAKE PICTURE BEGIN
+[17_18_42_14]: Image added 1549750720398_capture.jpg
+[17_18_42_16]: TAKE PICTURE END
+[17_18_42_24]: User stopped scrolling through images
+[17_18_43_17]: TAKE PICTURE BEGIN
+[17_18_44_25]: Image added 1549750723177_capture.jpg
+[17_18_44_26]: TAKE PICTURE END
+[17_18_44_32]: User stopped scrolling through images
+[17_18_45_53]: TAKE PICTURE BEGIN
+[17_18_47_03]: Image added 1549750725539_capture.jpg
+[17_18_47_04]: TAKE PICTURE END
+[17_18_47_10]: User stopped scrolling through images
+[17_18_48_57]: TAKE PICTURE BEGIN
+[17_18_49_44]: Image added 1549750728577_capture.jpg
+[17_18_49_44]: TAKE PICTURE END
+[17_18_49_52]: User stopped scrolling through images
+[17_18_51_37]: TAKE PICTURE BEGIN
+[17_18_52_24]: Image added 1549750731376_capture.jpg
+[17_18_52_24]: TAKE PICTURE END
+[17_18_52_30]: User stopped scrolling through images
+[17_18_53_17]: TAKE PICTURE BEGIN
+[17_18_54_71]: Image added 1549750733174_capture.jpg
+[17_18_54_72]: TAKE PICTURE END
+[17_18_54_78]: User stopped scrolling through images
+[17_18_55_35]: TAKE PICTURE BEGIN
+[17_18_56_30]: Image added 1549750735360_capture.jpg
+[17_18_56_31]: TAKE PICTURE END
+[17_18_56_37]: User stopped scrolling through images
+[17_18_57_14]: TAKE PICTURE BEGIN
+[17_18_58_37]: Image added 1549750737154_capture.jpg
+[17_18_58_37]: TAKE PICTURE END
+[17_18_58_44]: User stopped scrolling through images
+[17_18_59_07]: TAKE PICTURE BEGIN
+[17_19_00_48]: Image added 1549750739083_capture.jpg
+[17_19_00_48]: TAKE PICTURE END
+[17_19_00_55]: User stopped scrolling through images
+[17_19_01_96]: TAKE PICTURE BEGIN
+[17_19_02_92]: Image added 1549750741975_capture.jpg
+[17_19_02_93]: TAKE PICTURE END
+[17_19_02_98]: User stopped scrolling through images
+[17_19_03_93]: TAKE PICTURE BEGIN
+[17_19_05_39]: Image added 1549750743937_capture.jpg
+[17_19_05_39]: TAKE PICTURE END
+[17_19_05_45]: User stopped scrolling through images
+[17_19_06_22]: TAKE PICTURE BEGIN
+[17_19_07_37]: Image added 1549750746228_capture.jpg
+[17_19_07_38]: TAKE PICTURE END
+[17_19_07_45]: User stopped scrolling through images
+[17_19_08_14]: TAKE PICTURE BEGIN
+[17_19_09_07]: Image added 1549750748152_capture.jpg
+[17_19_09_08]: TAKE PICTURE END
+[17_19_09_14]: User stopped scrolling through images
+[17_19_09_79]: TAKE PICTURE BEGIN
+[17_19_10_68]: Image added 1549750749797_capture.jpg
+[17_19_10_68]: TAKE PICTURE END
+[17_19_10_75]: User stopped scrolling through images
+[17_19_11_55]: TAKE PICTURE BEGIN
+[17_19_12_50]: Image added 1549750751562_capture.jpg
+[17_19_12_52]: TAKE PICTURE END
+[17_19_12_59]: User stopped scrolling through images
+[17_19_13_18]: TAKE PICTURE BEGIN
+[17_19_14_63]: Image added 1549750753193_capture.jpg
+[17_19_14_64]: TAKE PICTURE END
+[17_19_14_70]: User stopped scrolling through images
+[17_19_15_35]: TAKE PICTURE BEGIN
+[17_19_16_25]: Image added 1549750755356_capture.jpg
+[17_19_16_26]: TAKE PICTURE END
+[17_19_16_31]: User stopped scrolling through images
+[17_19_16_88]: TAKE PICTURE BEGIN
+[17_19_17_81]: Image added 1549750756892_capture.jpg
+[17_19_17_81]: TAKE PICTURE END
+[17_19_17_87]: User stopped scrolling through images
+[17_19_18_40]: TAKE PICTURE BEGIN
+[17_19_20_10]: Image added 1549750758408_capture.jpg
+[17_19_20_10]: TAKE PICTURE END
+[17_19_20_17]: User stopped scrolling through images
+[17_19_20_70]: TAKE PICTURE BEGIN
+[17_19_21_72]: Image added 1549750760705_capture.jpg
+[17_19_21_73]: TAKE PICTURE END
+[17_19_21_78]: User stopped scrolling through images
+[17_19_22_52]: TAKE PICTURE BEGIN
+[17_19_23_64]: Image added 1549750762527_capture.jpg
+[17_19_23_64]: TAKE PICTURE END
+[17_19_23_70]: User stopped scrolling through images
+[17_19_24_57]: TAKE PICTURE BEGIN
+[17_19_26_02]: Image added 1549750764583_capture.jpg
+[17_19_26_03]: TAKE PICTURE END
+[17_19_26_08]: User stopped scrolling through images
+[17_19_27_11]: TAKE PICTURE BEGIN
+[17_19_28_44]: Image added 1549750767113_capture.jpg
+[17_19_28_45]: TAKE PICTURE END
+[17_19_28_51]: User stopped scrolling through images
+[17_19_29_92]: TAKE PICTURE BEGIN
+[17_19_30_80]: Image added 1549750769929_capture.jpg
+[17_19_30_81]: TAKE PICTURE END
+[17_19_30_88]: User stopped scrolling through images
+[17_19_31_90]: TAKE PICTURE BEGIN
+[17_19_33_48]: Image added 1549750771907_capture.jpg
+[17_19_33_48]: TAKE PICTURE END
+[17_19_33_54]: User stopped scrolling through images
+[17_19_34_69]: TAKE PICTURE BEGIN
+[17_19_36_39]: Image added 1549750774697_capture.jpg
+[17_19_36_39]: TAKE PICTURE END
+[17_19_36_46]: User stopped scrolling through images
+[17_19_37_28]: TAKE PICTURE BEGIN
+[17_19_39_02]: Image added 1549750777293_capture.jpg
+[17_19_39_02]: TAKE PICTURE END
+[17_19_39_08]: User stopped scrolling through images
+[17_19_44_30]: TAKE PICTURE BEGIN
+[17_19_45_25]: Image added 1549750784309_capture.jpg
+[17_19_45_25]: TAKE PICTURE END
+[17_19_45_32]: User stopped scrolling through images
+[17_19_46_31]: TAKE PICTURE BEGIN
+[17_19_47_47]: Image added 1549750786315_capture.jpg
+[17_19_47_48]: TAKE PICTURE END
+[17_19_47_55]: User stopped scrolling through images
+[17_19_48_58]: TAKE PICTURE BEGIN
+[17_19_49_74]: Image added 1549750788594_capture.jpg
+[17_19_49_75]: TAKE PICTURE END
+[17_19_49_81]: User stopped scrolling through images
+[17_19_50_65]: TAKE PICTURE BEGIN
+[17_19_51_64]: Image added 1549750790655_capture.jpg
+[17_19_51_64]: TAKE PICTURE END
+[17_19_51_71]: User stopped scrolling through images
+[17_19_53_71]: TAKE PICTURE BEGIN
+[17_19_54_66]: Image added 1549750793724_capture.jpg
+[17_19_54_67]: TAKE PICTURE END
+[17_19_54_72]: User stopped scrolling through images
+[17_20_02_98]: TAKE PICTURE BEGIN
+[17_20_04_37]: Image added 1549750802990_capture.jpg
+[17_20_04_38]: TAKE PICTURE END
+[17_20_04_45]: User stopped scrolling through images
+[17_20_04_91]: TAKE PICTURE BEGIN
+[17_20_06_06]: Image added 1549750804916_capture.jpg
+[17_20_06_07]: TAKE PICTURE END
+[17_20_06_13]: User stopped scrolling through images
+[17_20_06_74]: TAKE PICTURE BEGIN
+[17_20_08_66]: TAKE PICTURE BEGIN
+[17_20_10_10]: Image added 1549750806752_capture.jpg
+[17_20_10_11]: TAKE PICTURE END
+[17_20_10_17]: User stopped scrolling through images
+[17_20_12_13]: TAKE PICTURE BEGIN
+[17_20_13_06]: Image added 1549750812141_capture.jpg
+[17_20_13_07]: TAKE PICTURE END
+[17_20_13_14]: User stopped scrolling through images
+[17_20_14_00]: TAKE PICTURE BEGIN
+[17_20_15_68]: TAKE PICTURE BEGIN
+[17_20_16_39]: Image added 1549750814005_capture.jpg
+[17_20_16_39]: TAKE PICTURE END
+[17_20_16_46]: User stopped scrolling through images
+[17_20_17_76]: TAKE PICTURE BEGIN
+[17_20_19_04]: Image added 1549750817767_capture.jpg
+[17_20_19_05]: TAKE PICTURE END
+[17_20_19_12]: User stopped scrolling through images
+[17_20_19_89]: TAKE PICTURE BEGIN
+[17_20_21_10]: Image added 1549750819903_capture.jpg
+[17_20_21_10]: TAKE PICTURE END
+[17_20_21_17]: User stopped scrolling through images
+[17_20_21_85]: TAKE PICTURE BEGIN
+[17_20_23_18]: Image added 1549750821856_capture.jpg
+[17_20_23_18]: TAKE PICTURE END
+[17_20_23_25]: User stopped scrolling through images
+[17_20_24_01]: TAKE PICTURE BEGIN
+[17_20_25_39]: Image added 1549750824017_capture.jpg
+[17_20_25_39]: TAKE PICTURE END
+[17_20_25_46]: User stopped scrolling through images
+[17_20_26_07]: TAKE PICTURE BEGIN
+[17_20_27_51]: Image added 1549750826084_capture.jpg
+[17_20_27_51]: TAKE PICTURE END
+[17_20_27_57]: User stopped scrolling through images
+[17_20_29_62]: TAKE PICTURE BEGIN
+[17_20_30_68]: Image added 1549750829626_capture.jpg
+[17_20_30_69]: TAKE PICTURE END
+[17_20_30_74]: User stopped scrolling through images
+[17_20_32_19]: TAKE PICTURE BEGIN
+[17_20_33_54]: Image added 1549750832201_capture.jpg
+[17_20_33_55]: TAKE PICTURE END
+[17_20_33_61]: User stopped scrolling through images
+[17_20_34_69]: TAKE PICTURE BEGIN
+[17_20_36_26]: Image added 1549750834698_capture.jpg
+[17_20_36_26]: TAKE PICTURE END
+[17_20_36_33]: User stopped scrolling through images
+[17_20_37_39]: TAKE PICTURE BEGIN
+[17_20_38_35]: Image added 1549750837397_capture.jpg
+[17_20_38_36]: TAKE PICTURE END
+[17_20_38_42]: User stopped scrolling through images
+[17_20_39_25]: TAKE PICTURE BEGIN
+[17_20_40_46]: Image added 1549750839256_capture.jpg
+[17_20_40_46]: TAKE PICTURE END
+[17_20_40_52]: User stopped scrolling through images
+[17_20_41_37]: TAKE PICTURE BEGIN
+[17_20_42_36]: Image added 1549750841384_capture.jpg
+[17_20_42_37]: TAKE PICTURE END
+[17_20_42_43]: User stopped scrolling through images
+[17_20_43_54]: TAKE PICTURE BEGIN
+[17_20_44_91]: Image added 1549750843547_capture.jpg
+[17_20_44_91]: TAKE PICTURE END
+[17_20_44_96]: User stopped scrolling through images
+[17_20_45_91]: TAKE PICTURE BEGIN
+[17_20_47_15]: Image added 1549750845919_capture.jpg
+[17_20_47_16]: TAKE PICTURE END
+[17_20_47_21]: User stopped scrolling through images
+[17_20_48_34]: TAKE PICTURE BEGIN
+[17_20_49_57]: Image added 1549750848344_capture.jpg
+[17_20_49_58]: TAKE PICTURE END
+[17_20_49_64]: User stopped scrolling through images
+[17_20_50_41]: TAKE PICTURE BEGIN
+[17_20_51_58]: Image added 1549750850423_capture.jpg
+[17_20_51_59]: TAKE PICTURE END
+[17_20_51_66]: User stopped scrolling through images
+[17_20_52_42]: TAKE PICTURE BEGIN
+[17_20_54_93]: Image added 1549750852428_capture.jpg
+[17_20_54_94]: TAKE PICTURE END
+[17_20_55_00]: TAKE PICTURE BEGIN
+[17_20_55_01]: User stopped scrolling through images
+[17_20_56_32]: Image added 1549750855008_capture.jpg
+[17_20_56_32]: TAKE PICTURE END
+[17_20_56_39]: User stopped scrolling through images
+[17_20_57_19]: TAKE PICTURE BEGIN
+[17_20_57_96]: Image added 1549750857199_capture.jpg
+[17_20_57_97]: TAKE PICTURE END
+[17_20_58_03]: User stopped scrolling through images
+[17_20_59_35]: TAKE PICTURE BEGIN
+[17_21_00_13]: Image added 1549750859361_capture.jpg
+[17_21_00_13]: TAKE PICTURE END
+[17_21_00_19]: User stopped scrolling through images
+[17_21_01_34]: TAKE PICTURE BEGIN
+[17_21_02_24]: Image added 1549750861347_capture.jpg
+[17_21_02_25]: TAKE PICTURE END
+[17_21_02_31]: User stopped scrolling through images
+[17_21_03_34]: TAKE PICTURE BEGIN
+[17_21_04_15]: Image added 1549750863343_capture.jpg
+[17_21_04_15]: TAKE PICTURE END
+[17_21_04_22]: User stopped scrolling through images
+[17_21_05_21]: TAKE PICTURE BEGIN
+[17_21_06_26]: Image added 1549750865216_capture.jpg
+[17_21_06_27]: TAKE PICTURE END
+[17_21_06_33]: User stopped scrolling through images
+[17_21_08_29]: TAKE PICTURE BEGIN
+[17_21_09_04]: Image added 1549750868299_capture.jpg
+[17_21_09_04]: TAKE PICTURE END
+[17_21_09_10]: User stopped scrolling through images
+[17_21_10_40]: TAKE PICTURE BEGIN
+[17_21_11_66]: Image added 1549750870412_capture.jpg
+[17_21_11_66]: TAKE PICTURE END
+[17_21_11_71]: User stopped scrolling through images
+[17_21_12_38]: TAKE PICTURE BEGIN
+[17_21_13_28]: Image added 1549750872384_capture.jpg
+[17_21_13_28]: TAKE PICTURE END
+[17_21_13_34]: User stopped scrolling through images
+[17_21_14_17]: TAKE PICTURE BEGIN
+[17_21_15_27]: Image added 1549750874182_capture.jpg
+[17_21_15_27]: TAKE PICTURE END
+[17_21_15_34]: User stopped scrolling through images
+[17_21_16_56]: TAKE PICTURE BEGIN
+[17_21_17_35]: Image added 1549750876568_capture.jpg
+[17_21_17_35]: TAKE PICTURE END
+[17_21_17_41]: User stopped scrolling through images
+[17_21_18_53]: TAKE PICTURE BEGIN
+[17_21_19_50]: Image added 1549750878540_capture.jpg
+[17_21_19_50]: TAKE PICTURE END
+[17_21_19_56]: User stopped scrolling through images
+[17_21_20_69]: User exits Camera
+[17_21_30_77]: Hotel: Hampton Inn Philadelphia/Plymouth Meeting
+[17_21_30_77]: Attempting to upload data to server
