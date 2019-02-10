@@ -1,0 +1,10 @@
+FOTOAPPARAT
+Average time: 1011
+Max time: 1938
+Min time: 91
+
+GOOGLE CAMERA
+Average time: 1244
+Max time: 2052
+Min time: 78
+
