@@ -2,7 +2,7 @@
 
 f = open("in.txt", "r")
 
-for line in f.read():
+for line in f:
     print(line)
 
 
