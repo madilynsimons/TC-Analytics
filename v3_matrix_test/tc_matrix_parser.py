@@ -1,10 +1,20 @@
 #!/usr/bin/python
 
-f = open("in.txt", "r")
+in_file = open("in.txt", "r")
+out_file = open("out.csv", "w")
 
-for line in f:
-    print(line)
+out_file.write("x,y\n")
 
+for line in in_file:
+    words = line.split()
 
-f.close()
+    if words[0] == "D/stencil_location_y:":
+        y = float(words[1])
+        out_file.write(",%f\n" % y)
+    elif words[0] == "D/stencil_location_x:":
+        x = float(words[1])
+        out_file.write("%f" % x)
+
+in_file.close()
+out_file.close()
 
